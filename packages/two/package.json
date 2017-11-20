@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "two",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^4.11.0"
+  }
+}

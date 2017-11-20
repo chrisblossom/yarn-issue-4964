@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "lerna-issue-4964",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "workspaces": [
+    "packages/*"
+  ]
+}
